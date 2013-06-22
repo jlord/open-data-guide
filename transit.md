@@ -1,9 +1,9 @@
 
 #1 Question
 
-Why open up transit data?
+##Why open up transit data?
 
-People want to know:
+###People want to know:
 
 * When is the next bus/train? 
 * Where is the closest stop/station? 
@@ -32,12 +32,12 @@ figure out why one should use one over the other
 Depends on what kind of data you're looking to publish.
 
 * API
-```
+```@TODO
 explain benefits specifically, if it's realtime
 explain formats
 ```
 * File Download
-```
+```@TODO
 explain downsides
 explain appropriate uses (stop/route data?)
 ```
@@ -48,7 +48,7 @@ explain appropriate uses (stop/route data?)
 ##Where should I look?
 The best place to start would probably be with your transportation board.
 
-```
+```@TODO
 other places that people have found that data inside of govt.
 ```
 
@@ -65,19 +65,22 @@ transform what you have to the standard you chose.
 * open source ETL
 * roll your own ETL
 
+#next steps:
+##consume your own data/api
+```boilerplate 
+    This is the best way to ensure that the standard and quality of your data/api are maintained etc…
+    @TODO make this it's own page as a value that is espoused.
+```
 
-
-
+----------
 
 #is this becoming hugely painful?
-Can't find the data?
-###cost/savings conversation
-This is probably a 
-Data
-##other things:
-###consume your own data
-```boilerplate
-    This is the best way to ensure that the standard and quality of your data/api are maintained 
-```
-###tips for researching/liberating data
+##Can't find the data?
+This is probably a good time to reevaluate what the costs/benefits are and make sure that:
+
+* it's _possible_ to get the data
+* it's _feasible_ to get the data
+* it's _cost-effective_ to get the data
+
+
 
