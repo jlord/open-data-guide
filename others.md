@@ -1,10 +1,7 @@
 #Other Guides:
-=============
 
 ##[Civic Commons Open Data Guidelines:](http://wiki.civiccommons.org/Open_Data_Guidelines)
 
-
-##[Civic Commons Open Data Guidelines:](http://wiki.civiccommons.org/Open_Data_Guidelines)
 
 ##[Open Data Commons:](http://opendatacommons.org/guide/)
 This guide is focused on adding data to the Open Data Commons run by the Open Knowledge Foundation. It goes over the process of adding an existing dataset to their commons (opening it) and applying the appropriate license. It does not go into any technical detail about how to put together a dataset that can be opened.
