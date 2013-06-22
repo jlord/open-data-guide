@@ -9,3 +9,5 @@
 
 ##[Socrata Open Data Field Guide:](http://www.socrata.com/open-data-field-guide-chapter/about/)
 
+##[Google Open Transit Guide:] (http://maps.google.com/help/maps/mapcontent/transit/)
+
