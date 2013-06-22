@@ -1,5 +1,8 @@
 #Other Guides:
 
+
+##[Civic Commons Open Data Guidelines:](http://wiki.civiccommons.org/Open_Data_Guidelines)
+
 ##[Open Data Commons:](http://opendatacommons.org/guide/)
 
 ##[Open Data Handbook:](http://opendatahandbook.org/)
