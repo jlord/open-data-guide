@@ -13,3 +13,5 @@ Provides an excellent "why" guide but not so much with the "how to" information.
 ##[Google Open Transit Guide:] (http://maps.google.com/help/maps/mapcontent/transit/)
 Focuses solely on publishing transportation data in General Transit Feed Specification.  Very detailed how-to for a very specific task.  Although an excellent guide, it would be difficult to use this for any other kinds of data sets.
 
+##[Open Government Data (Josh's Book)] (http://opengovdata.io/) 
+Excellent, comprehensive guide to Open Data.  Case studies illustrate the "how" to some extent, but concentrates more on the "why."  Probably too long for our target audience to consume.
