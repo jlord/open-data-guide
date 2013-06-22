@@ -18,11 +18,5 @@ Focuses solely on publishing transportation data in General Transit Feed Specifi
 ##[Open Government Data (Josh's Book)](http://opengovdata.io/) 
 Excellent, comprehensive guide to Open Data. Case studies illustrate the "how" to some extent, but concentrates more on the "why."  Probably too long for our target audience to consume.
 
-##[Google Open Transit Guide](http://maps.google.com/help/maps/mapcontent/transit/)
-Focuses solely on publishing transportation data in General Transit Feed Specification. Very detailed how-to for a very specific task.  Although an excellent guide, it would be difficult to use this for any other kinds of data sets.
-
-##[Open Government Data (Josh's Book)](http://opengovdata.io/) 
-Excellent, comprehensive guide to Open Data.  Case studies illustrate the "how" to some extent, but concentrates more on the "why."  Probably too long for our target audience to consume.
-
 ##[Philidelphia Open Data Guidenook](https://docs.google.com/document/d/1Kd4AOoRG8q18PVZ0JMusgKWJmgjrWvv3iTdKUjLEdT4/edit) 
 Highly relevent to our project, although geared towards Philidelphia.
