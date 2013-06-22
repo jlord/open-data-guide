@@ -1,4 +1,4 @@
-#Other Guides:
+#Other Guides
 
 ##[Civic Commons Open Data Guidelines](http://wiki.civiccommons.org/Open_Data_Guidelines)
 This is a meta list of Open Data Guides similar to this page. 
@@ -12,13 +12,13 @@ This is another handbook published by the Open Knowledge Foundation. It talks mo
 ##[Socrata Open Data Field Guide](http://www.socrata.com/open-data-field-guide-chapter/about/)
 This is a finely detailed guide for a government to open their data. It goes through all the social processes of opening data including building the impetus for opening data and creating a community around it. It also does not go into technical detail if you are the tech guy in charge of opening up data, although it gives links to examples of governments that have opened data through Socrata.
 
-##[Google Open Transit Guide:](http://maps.google.com/help/maps/mapcontent/transit/)
+##[Google Open Transit Guide](http://maps.google.com/help/maps/mapcontent/transit/)
 Focuses solely on publishing transportation data in General Transit Feed Specification.  Very detailed how-to for a very specific task.  Although an excellent guide, it would be difficult to use this for any other kinds of data sets.
 
 ##[Open Government Data (Josh's Book)](http://opengovdata.io/) 
 Excellent, comprehensive guide to Open Data. Case studies illustrate the "how" to some extent, but concentrates more on the "why."  Probably too long for our target audience to consume.
 
-##[Google Open Transit Guide:](http://maps.google.com/help/maps/mapcontent/transit/)
+##[Google Open Transit Guide](http://maps.google.com/help/maps/mapcontent/transit/)
 Focuses solely on publishing transportation data in General Transit Feed Specification. Very detailed how-to for a very specific task.  Although an excellent guide, it would be difficult to use this for any other kinds of data sets.
 
 ##[Open Government Data (Josh's Book)](http://opengovdata.io/) 
