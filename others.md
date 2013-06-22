@@ -6,6 +6,7 @@
 ##[Open Data Commons:](http://opendatacommons.org/guide/)
 
 ##[Open Data Handbook:](http://opendatahandbook.org/)
+Provides an excellent "why" guide but not so much with the "how to" information.
 
 ##[Socrata Open Data Field Guide:](http://www.socrata.com/open-data-field-guide-chapter/about/)
 
