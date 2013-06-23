@@ -18,6 +18,7 @@ You might find this data in the health department, inspections department. Check
 # Decide how to deliver your Data
 Once your data is formatted per the standards, submit it to [healthscores@yelp.com](http://mailto:healthscores@yelp.com.).
   
+Place the same data on your web site, allowing other others to use it. Consider using local mapping solutions to deliver data in with a geographical and community focus.  
 # Publish your Data
 Though the guide for the data standard says that feed_information.csv is an optional file, it's really benefitial to the public to provide this information so that the data can be dated. It is also useful to provide documentation for the public regarding the collection and use of the data. When this is complete, publish your data!
 
