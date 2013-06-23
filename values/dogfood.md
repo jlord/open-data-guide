@@ -6,4 +6,3 @@ Once an api has been opened, that API should be used internally for all access t
 * align values of the consumer and producer of the data
 * ensure that the API itself is maintained and supported
 
-
