@@ -32,4 +32,4 @@ If you would like specific organizations to ingest your data into their own APIs
 
 
 #Engage your Community
-
+Make sure you provide a way for developers and community members to submit feedback and error reports to you.  This can be as simple as creting and publicizing an email address.
