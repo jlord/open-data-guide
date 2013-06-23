@@ -25,7 +25,18 @@ This might be another great opportunity to engage your community.  Do the develo
 Most open data projects with funding to support them have written symantic and syntactic checkers.  Before publishing your data, you might want to check to make sure you've successfully transformed it into the data standard you are attempting to publish.
 
 #Decide how to deliver your Data
-## Insert Dylan's API ect.
+
+##File downloads
+ This delivery method is good for data that does not change often or is historical data bundled into discrete snapshots. This might be an appropriate method for publishing historical election results, however polling place and election results information changes so often, another delivery method might be the most appropriate. Options include:  
+ * 3rd party 'data commons' sites
+ * FTP (and variants)
+ * BitTorrent
+
+##API
+ This is best for real-time data.  The Voting Information Project will ingest your flat data and return it for you saving you the trouble of building your own API.
+
+##Data Portal
+ Can wrap either an API, a set of file downloads, or both.
 
 #Publish your Data
 If you would like specific organizations to ingest your data into their own APIs, you should let them know where you've placed your data.  The Google Civic Information API returns election information published in the VIP format.  You can notify them of your published data at https://votinginfoproject.org/contact.
