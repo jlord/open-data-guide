@@ -2,10 +2,6 @@
 -------------------------------------------------------------- */
 
 html, body {
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  position:relative;
 }
 
 /* Typography */
@@ -151,28 +147,41 @@ a.btn-primary {
 /* =Content Elements
 -------------------------------------------------------------- */
 
-.data-category-selector {
+.navigation {
   background: #ede1de;
-  padding: 2em;
+  padding: 1em;
+  line-height: 2;
+  font-size: 1.75em;
 }
-.data-category-selector p {
-  font-size: 2em;
+.navigation > span {
+  float: left;
 }
-.data-category-selector select {
-  outline: 0;
-  font-size: 1em;
-  background: transparent;
-  width: auto;
-  padding: 0;
-  line-height: auto;
-  border: 0;
-  border-bottom: 0.1em solid #308fbf;
-  border-radius: 0;
-  height: auto;
-  -webkit-appearance: none;
-  font-weight: bold;
-  color: #308fbf;
-  display: inline-block;
+ul.data-category-selector {
+  line-height: 2em;
+  float: left;
+  list-style: none;
+  padding: 0 2.5em 0 0.5em;
+  margin: 0 0.5em;
+  width: 11em;
+  overflow: visible;
+  height: 2em;
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 0.5em;
+}
+.data-category-selector li {
+  display: block;
+  white-space: nowrap;
+}
+.data-category-selector .inactive {
+  display: none;
+}
+.data-category-selector:hover .inactive {
+  display: block;
+}
+.data-category-selector a {
+  text-decoration: none;
+  color: #f68360;
 }
 
 /* =Media Queries for Responsive Layout

@@ -1,7 +1,8 @@
 ---
-title: "I want to open restaurant health inspection data"
+title: "restaurant health inspection"
 layout: default
 permalink: /health-inspections/
+group: "navigation"
 ---
 
 # Engage the Community
@@ -29,4 +30,3 @@ Restaurant inspections are an ongoing process. You need to ensure that your data
 # Engage your Community
 
 Provide an email address for the public to provide feedback about the data. Monitor your web site analytics to determine utilization. Consider reaching out to public health officials to determine impact on health outcomes. Local sales tax data can also provide information on business impacts.
-

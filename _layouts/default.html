@@ -22,7 +22,7 @@
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
   <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
 
-	<link rel="stylesheet" href="{{ site.root }}assets/mathlete-fontfacekit/stylesheet.css" type="text/css" charset="utf-8">
+  <link rel="stylesheet" href="{{ site.root }}assets/mathlete-fontfacekit/stylesheet.css" type="text/css" charset="utf-8">
 
   <link rel="stylesheet" href="{{ site.root }}assets/css/normalize.css" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="{{ site.root }}assets/css/style.css" type="text/css" media="screen, projection" />
@@ -47,18 +47,20 @@
 <div class="content">
   <div class="container">
 
-    <nav class="data-category-selector">
-      <p>Yeah, I want to open
-        <select>
-          <option>my</option>
-          <option>transportation</option>
-          <option>food</option>
-          <option>crime</option>
-          <option>311</option>  
-          <option>etc...</option>
-        </select> 
-        data.
-      </p>
+    <nav class="navigation clearfix">
+      <span>Yeah, I want to open</span>
+      <ul class="data-category-selector">
+        {% if page.url == node.url %}
+        <li><a href="{{ site.root }}"
+           class="active"
+           {% else %}
+        my</a></li>
+        {% assign pages_list = site.pages %}
+        {% assign group = 'navigation' %}
+        {% include pages_list %}
+        {% endif %}
+      </ul>
+      <span>data.</span>
     </nav>
 
     <article>

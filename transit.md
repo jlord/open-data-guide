@@ -1,5 +1,5 @@
 ---
-title: "I want to open my transit data"
+title: "transit"
 layout: default
 permalink: {{ site.root}}/transit/
 group: "navigation"
