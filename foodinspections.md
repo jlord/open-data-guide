@@ -1,5 +1,5 @@
 ---
-title: "I want to open health inspection data"
+title: "I want to open restaurant health inspection data"
 layout: default
 permalink: /health-inspections/
 ---
