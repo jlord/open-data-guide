@@ -107,7 +107,7 @@ a.btn-primary {
 .is-invisible { visibility: hidden; }
 
 
-/* =Layout: Panels, Pages, Profiles
+/* =Layout
 -------------------------------------------------------------- */
 
 .container {
@@ -118,11 +118,42 @@ a.btn-primary {
 
 /* Site Header */
 .site-header {
-  background: #eee;
+  background: #f89371;
   border-bottom: 1px solid #ddd;
-  padding: 0.75em;
+  padding: 4em 0.75em 2em;
   margin-bottom: 2em;
 }
 .site-title {
+  font-family: 'Amatic SC', cursive;
+  font-size: 3.5em;
   margin: 0;
+  float: left;
+  width: 5em;
+  line-height: 1;
+}
+.site-title a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.data-category-selector {
+  font-family: 'Amatic SC', cursive;
+  font-size: 4em;
+}
+.data-category-selector select {
+  font-size: 1em;
+  background: transparent;
+  width: auto;
+  padding: 0;
+  line-height: auto;
+  border: 0;
+  border-bottom: 0.1em solid #308fbf;
+  border-radius: 0;
+  height: auto;
+  -webkit-appearance: none;
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  color: #308fbf;
+  display: inline-block;
+  text-align: center;
 }
