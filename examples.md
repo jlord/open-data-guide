@@ -9,7 +9,7 @@
 
 - 
 
-## Standardds
+## Standards
 - [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs/)
 - [Local Inspector Value-entry Specification (LIVES)](http://www.yelp.com/healthscores)
 - [Open 311](http://open311.org/)
