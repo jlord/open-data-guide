@@ -1,3 +1,9 @@
+---
+title: "Examples"
+layout: default
+permalink: /examples/
+---
+
 ## Batch Data
 - [City of Chicago](https://data.chicago.gov/)
 - [City of Boston](https://data.cityofboston.gov/)

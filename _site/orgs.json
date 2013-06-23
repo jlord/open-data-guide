@@ -1,0 +1,41 @@
+{ 
+"United States": [ 
+  "adlnet", "cfpb", "erdc-cm", "fcc", "gsa", "GSA-OCSIT", "hhs", "LibraryOfCongress", "nasa", "nationalparkservice", "NCIP", "nrel", "opengovplatform", "presidential-innovation-fellows", "usagov", "USDepartmentofLabor", "USEPA", "usgs", "usnationalarchives", "whitehouse", "usasearch", "commercegov", "usda" 
+  ], 
+
+"Argentina": [ 
+  "gcba" 
+  ], 
+
+"Canada": [ 
+  "nsgov", "pwgsc" 
+  ], 
+
+"Finland": [ 
+  "avoinministerio", "City-of-Helsinki" 
+  ], 
+
+"Norway": [ 
+  "difi" 
+  ], 
+
+"United Kingdom": [ 
+  "alphagov", "lichfield-district-council" 
+  ], 
+
+"State": [ 
+  "nysenate", "nys-its" 
+  ], 
+
+"County": [ 
+  "sfcta", "miamidade", "pueblocounty" 
+  ], 
+
+"City": [ 
+  "chicago", "cityofnewyork", "octolabs", "city-of-bloomington", "city-of-bellingham", "egovpdx" 
+  ], 
+
+"Civic Hackers": [ 
+  "codeforamerica", "sunlightlabs", "opengovfoundation", "open-city" 
+  ]
+}

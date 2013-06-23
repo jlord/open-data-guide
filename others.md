@@ -1,3 +1,9 @@
+---
+title: "Other Open Data Guides"
+layout: default
+permalink: /other-guides/
+---
+
 #Other Guides
 
 ##[Civic Commons Open Data Guidelines](http://wiki.civiccommons.org/Open_Data_Guidelines)

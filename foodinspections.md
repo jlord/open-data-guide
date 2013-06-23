@@ -1,5 +1,11 @@
+---
+title: "I want to open health inspection data"
+layout: default
+permalink: /health-inspections/
+---
+
 # Engage the Community
-Has the community expressed interested in food inspection information? Are there many reports about violations or requests for scores? Are there other indicators of demand for civic information? Solicit feedback from the community. Has any of this data been made public before? What does a citizen have to do today to find this information? What is a restaurants current health inspection score? What are scores from previous years? If any, what are the violations? Are you currently collecting this information digitally?
+Has the community expressed interested in health inspection information? Are there many reports about violations or requests for scores? Are there other indicators of demand for civic information? Solicit feedback from the community. Has any of this data been made public before? What does a citizen have to do today to find this information? What is a restaurants current health inspection score? What are scores from previous years? If any, what are the violations? Are you currently collecting this information digitally?
 
 # Find your Data
 You might find this data in the health department, inspections department. Check that the data you've found is up to date, accurate and complete. 
