@@ -23,4 +23,6 @@ Place the same data on your web site, allowing other others to use it. Consider 
 Though the guide for the data standard says that feed_information.csv is an optional file, it's really benefitial to the public to provide this information so that the data can be dated. It is also useful to provide documentation for the public regarding the collection and use of the data. When this is complete, publish your data!
 
 # Engage your Community
-Once your data is published, you should engage the public and collect feedback on it's usefulness and 
+
+Provide an email address for the public to provide feedback about the data. Monitor your web site analytics to determine utilization. Consider reaching out to public health officials to determine impact on health outcomes. Local sales tax data can also provide information on business impacts.
+
