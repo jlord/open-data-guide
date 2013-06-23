@@ -68,15 +68,16 @@ More information on the [delivery methods](/general/delivery) and [api protocols
 
 
 #5 Release it!
+Release the data/api. 
+Make sure that it is [properly documented](/general/documentation) to that people can use it. 
+Talk to the community to make sure that they understand what has been release and that they know that it is actually out.
 
-
+Celebrate!
 
 #next steps:
+##Reengage the community!
 ##consume your own data/api
-```boilerplate 
-    This is the best way to ensure that the standard and quality of your data/api are maintained etc…
-    @TODO make this it's own page as a value that is espoused.
-```
+It should always be a goal to use the api/data internally. More info on why is [here](/general/dogfood)
 
 ----------
 
