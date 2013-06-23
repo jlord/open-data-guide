@@ -14,5 +14,5 @@ This site is built using [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pa
     git checkout -b my-new-branch
 4. Open in your favorite editor and make changes. Commit and push changes to your branch.
  - To run locally: 
-     jekyll serve --watch
+        jekyll serve --watch
 4. Submit a pull request with your changes! 
