@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html dir="ltr" lang="en-US" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html dir="ltr" lang="en-US" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html dir="ltr" lang="en-US" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html dir="ltr" lang="en-US" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html dir="ltr" lang="en-US"> <!--<![endif]-->
+
+<head>
+  <title>Open Data Guide</title>
+
+  <meta charset="utf-8">
+  <meta name="description" content="Open Data Guide">
+  <meta name="author" content="Open Data Guide">
+
+  <!--  Mobile Viewport Fix -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+  <!-- Favicon & Progressively-Enhanced Touch Icons: http://mathiasbynens.be/notes/touch-icons#sizes -->
+  <link rel="shortcut icon" href="images/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+
+  <link rel="stylesheet" href="/open-data-guide/assets/mathlete-fontfacekit/stylesheet.css" type="text/css" charset="utf-8">
+
+  <link rel="stylesheet" href="/open-data-guide/assets/css/normalize.css" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="/open-data-guide/assets/css/style.css" type="text/css" media="screen, projection" />
+
+  <!-- Google Web Fonts -->
+  <!-- <link href='http://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'> -->
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+  <![endif]-->
+</head>
+<body>
+
+<div class="site-header clearfix">
+  <div class="container clearfix">
+    <h1 class="site-title"><span><a href="#" title="Open Data Guide" rel="home">Let's open some government <span>data!</span></a></span></h1>
+  </div>
+</div>
+
+<div class="content">
+  <div class="container">
+
+    <nav class="navigation clearfix">
+      <span>Yeah, I want to open</span>
+      <ul class="data-category-selector">
+        
+        my</a></li>
+        
+        
+        
+  
+    
+      <li class="inactive"><a href="/311/">311</a></li>
+    
+  
+
+  
+    
+      <li class="inactive"><a href="/crime/">crime</a></li>
+    
+  
+
+  
+    
+      <li class="active"><a href="/open-data-guide/election-information/">election information</a></li>
+    
+  
+
+  
+    
+      <li class="inactive"><a href="/energy-utlization/">Energy Utilization</a></li>
+    
+  
+
+  
+
+  
+    
+      <li class="inactive"><a href="/open-data-guide/health-inspections/">restaurant health inspection</a></li>
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+        
+      </ul>
+      <span>data.</span>
+    </nav>
+
+    <article>
+      <h1 id='engage_the_community'>Engage the Community</h1>
+
+<p>What are the existing requests for data and information? Your county or state board of elections might be able to tell you what kinds of questions they receive in the run up to the election. Often these questions center around the location of a polling place, filing an absentee ballot request, registering to vote, and information about who is on the ballot.</p>
+
+<p>Solicit feedback from the community. There are a number of civic companies that ingest information about elections and serve it up to users through different platforms. You may want to reach out to TurboVote, the Federal Voter Assistance Project, or Rock the Vote.</p>
+
+<h1 id='find_your_data'>Find your Data</h1>
+
+<p>You should locate the office or department that is responsible for running elections in your jurisdiction. Most often this is the county clerk&#8217;s office; although, in some states the elections are run by the Secretary of State&#8217;s office. At the very least, the Secretary of State&#8217;s office can tell you who owns the data you need.</p>
+
+<h2 id='review_your_data_for_accuracy'>Review your data for accuracy</h2>
+
+<p>You really don&#8217;t want to publish inaccurate election information. People get angry. Make sure you have the connonical source of the election data you want to publish. Think about how you will keep this data up-to-date. Who will be responsible for generating data exports and publishing them when data changes.</p>
+
+<h2 id='review_your_data_for_coveragecompleteness'>Review your data for coverage/completeness</h2>
+
+<p>It&#8217;s possible to publish election related data without complete coverage, but it makes the data less useful and will reduce the willingness of the community to work with it. If you choose to publish incomplete data, make sure you identify the gaps and help the community understand where those gaps exist.</p>
+
+<h1 id='decide_how_to_format_your_data'>Decide how to format your Data</h1>
+
+<h2 id='is_there_a_standard'>Is there a Standard?</h2>
+
+<h3 id='yes_there_are_a_few_standards'>Yes! There are a few standards</h3>
+
+<p><em><a href='https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=election'>The Election Markup Language</a> (EML) - EML is a data standard designed to facilitate the structured interchange of data among hardware, software and service vendors who provide election systems and services. While it’s very flexible, and is global, it has seen little adoption in the United States.</em><a href='https://votinginfoproject.org/'>The Voting Information Project</a> (VIP) - VIP is designed for US jurisdictions and 30 states have adpoted VIP as of November 2012.</p>
+
+<h3 id='which_standard_should_i_use'>Which standard should I use?</h3>
+
+<p>This might be another great opportunity to engage your community. Do the developers you&#8217;re interested in supporting prefer one standard over the other? Of the many different ways this data can be surfaced to users, which are the most popular and what standard do they ingest. Often tools and platforms will be able to ingest more than one data standard especially if there is more than one popular standard. If you&#8217;re a US jurisdiction, you most likely should use the VIP format. If you&#8217;re an international jurisdiction, EML is probably your best option.</p>
+
+<h3 id='is_there_a_valadator'>Is there a valadator?</h3>
+
+<p>Most open data projects with funding to support them have written symantic and syntactic checkers. Before publishing your data, you might want to check to make sure you&#8217;ve successfully transformed it into the data standard you are attempting to publish.</p>
+
+<h1 id='decide_how_to_deliver_your_data'>Decide how to deliver your Data</h1>
+
+<h2 id='file_downloads'>File downloads</h2>
+
+<p>This delivery method is good for data that does not change often or is historical data bundled into discrete snapshots. This might be an appropriate method for publishing historical election results, however polling place and election results information changes so often, another delivery method might be the most appropriate. Options include:</p>
+
+<ul>
+<li>3rd party &#8216;data commons&#8217; sites</li>
+
+<li>FTP (and variants)</li>
+
+<li>BitTorrent</li>
+</ul>
+
+<h2 id='api'>API</h2>
+
+<p>This is best for real-time data. The Voting Information Project will ingest your flat data and return it for you saving you the trouble of building your own API.</p>
+
+<h2 id='data_portal'>Data Portal</h2>
+
+<p>Can wrap either an API, a set of file downloads, or both.</p>
+
+<h1 id='publish_your_data'>Publish your Data</h1>
+
+<p>If you would like specific organizations to ingest your data into their own APIs, you should let them know where you&#8217;ve placed your data. The Google Civic Information API returns election information published in the VIP format. You can notify them of your published data at https://votinginfoproject.org/contact.</p>
+
+<h1 id='eating_your_own_dogfood'>Eating your own dogfood.</h1>
+
+<p>Once an api has been opened, that API should be used internally for all access to that information.</p>
+
+<ul>
+<li>find the flaws in the API design</li>
+
+<li>align values of the consumer and producer of the data</li>
+
+<li>ensure that the API itself is maintained and supported</li>
+</ul>
+
+<p>One easiy way of consuming the election data you publish is by making sure any internal polling place locator, ballot information locator or election results displays are built using the data you publish.</p>
+
+<h1 id='engage_your_community'>Engage your Community</h1>
+
+<p>Make sure you provide a way for developers and community members to submit feedback and error reports to you. This can be as simple as creting and publicizing an email address.</p>
+    </article>
+
+  </div>
+</div>
+
+</body>
+</html>
