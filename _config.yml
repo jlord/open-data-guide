@@ -1,2 +1,2 @@
-source:      _source
-destination: _deploy
+exclude: ["readme.md"]
+root: "/"
