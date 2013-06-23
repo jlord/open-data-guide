@@ -10,6 +10,9 @@ Has the community expressed interested in health inspection information? Are the
 Foodborne illness affects 48 million Americans annually with the majority of reported foodborne outbreaks due to food prepared and served by restaurants. New York City officials say that  [publicizing restaurant grades has led to a decrease in incidents of food poisoning, overall improvement of sanitation in restaurants, and an increase in business for restaurants with the best grades.](http://www.governing.com/news/local/ap-bloomberg-links-drop-in-food-poisoning-to-restaurant-grades.html)
 
 # Find your Data
+
+The data you need is created by the inspectors who visit restaurants and file reports. If your inspectors provide overall grades and detailed reports, you need to decide at what level of detail you wish to provide it.
+
 You might find this data in the health department, inspections department. Check that the data you've found is up to date, accurate and complete. 
   
 # Decide how to format your Data
@@ -22,6 +25,7 @@ Place the same data on your web site, allowing other others to use it. Consider 
 # Publish your Data
 Though the guide for the data standard says that feed_information.csv is an optional file, it's really benefitial to the public to provide this information so that the data can be dated. It is also useful to provide documentation for the public regarding the collection and use of the data. When this is complete, publish your data!
 
+Restaurant inspections are an ongoing process. You need to ensure that your data, as best as possible reflects current inspections and results.
 # Engage your Community
 
 Provide an email address for the public to provide feedback about the data. Monitor your web site analytics to determine utilization. Consider reaching out to public health officials to determine impact on health outcomes. Local sales tax data can also provide information on business impacts.
