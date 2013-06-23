@@ -20,3 +20,10 @@ Excellent, comprehensive guide to Open Data. Case studies illustrate the "how" t
 
 ##[Philidelphia Open Data Guidenook](https://docs.google.com/document/d/1Kd4AOoRG8q18PVZ0JMusgKWJmgjrWvv3iTdKUjLEdT4/edit) 
 Highly relevent to our project, although geared towards Philidelphia.
+
+##[Data Policy Statements - data.gov)](http://www.data.gov/data-policy)
+Public Information, Security, Privacy, Data Quality and Retention, Secondary Use, Citing Data, Disclaimer of Endorsement, Public Participation...
+
+##[Federal Government Project Open Data Implementation Guide](http://project-open-data.github.io/implementation-guide/)
+Basic implementation guide for Federal Agencies to follow the new open data policies
+
