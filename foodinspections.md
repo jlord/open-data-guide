@@ -1,7 +1,8 @@
 ---
-title: "I want to open restaurant health inspection data"
+title: "restaurant health inspection"
 layout: default
 permalink: /health-inspections/
+group: "navigation"
 ---
 
 # Engage the Community
