@@ -1,7 +1,7 @@
 ---
 title: "transit"
 layout: default
-permalink: /open-data-guide/transit/
+permalink: /transit/
 group: "navigation"
 ---
 
