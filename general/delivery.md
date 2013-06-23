@@ -1,3 +1,9 @@
+---
+title: "What delivery method should I use for my API?"
+layout: default
+permalink: {{ site.root }}/general/delivery/
+---
+
 #Data Delivery methods
 
 ##File downloads
