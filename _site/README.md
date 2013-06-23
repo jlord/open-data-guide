@@ -1,4 +1,4 @@
-## Open Data Guide
+# Open Data Guide
 
 A guide for opening common datasets. This was built at the Mozilla-Knight-MIT Hack Day, June 2013.
 
