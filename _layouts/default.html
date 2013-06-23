@@ -49,14 +49,20 @@
 
     <nav class="data-category-selector">
       <p>Yeah, I want to open
-        <select>
+        <ul>
+          <li><a href="{{ site.root }}">my</a></li>
+          {% assign pages_list = site.pages %}
+          {% assign group = 'navigation' %}
+          {% include pages_list %}
+        </ul>
+        <!-- <select>
           <option>my</option>
           <option>transportation</option>
           <option>food</option>
           <option>crime</option>
           <option>311</option>  
           <option>etc...</option>
-        </select> 
+        </select>  -->
         data.
       </p>
     </nav>

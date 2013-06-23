@@ -1,7 +1,8 @@
 ---
-title: "I want to open my transit data"
+title: "transit"
 layout: default
 permalink: /transit/
+group: "navigation"
 ---
 
 #1 Question
