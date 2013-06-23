@@ -1,3 +1,9 @@
+---
+title: "How should I document my data and API?"
+layout: default
+permalink: {{ site.root }}/general/documentation/
+---
+
 #Documentation
 
 Documenting the data that you release is arguably as important as releasing it in the first place.

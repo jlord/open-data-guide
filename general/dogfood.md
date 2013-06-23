@@ -1,3 +1,9 @@
+---
+title: "Why should I use my API internally?"
+layout: default
+permalink: {{ site.root }}/general/dogfood/
+---
+
 #Eating your own dogfood.
 
 Once an api has been opened, that API should be used internally for all access to that information. 

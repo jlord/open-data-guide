@@ -1,3 +1,9 @@
+---
+title: "What format should I use for my data"
+layout: default
+permalink: {{ site.root }}/general/formats/
+---
+
 #Formats
 
 The format that you release data in can affect ease and adoption of use.
