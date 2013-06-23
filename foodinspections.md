@@ -1,7 +1,7 @@
 ---
 title: "restaurant health inspection"
 layout: default
-permalink: /health-inspections/
+permalink: {{ site.root }}/health-inspections/
 group: "navigation"
 ---
 
