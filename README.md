@@ -2,6 +2,8 @@
 
 A guide for opening common datasets. This was built at the Mozilla-Knight-MIT Hack Day, June 2013.
 
+Live site at: [http://jlord.github.io/open-data-guide/](http://jlord.github.io/open-data-guide/).
+
 --------------
 
 This site is built using [Jekyll](http://jekyllrb.com/) (so you'll need up to date versions of [Ruby](http://www.ruby-lang.org/en/) and [Jekyll](http://jekyllrb.com/)) and hosted on [GitHub Pages](http://pages.github.com/). Each markdown file contains the steps for opening that type of data. Jekyll takes each of these and inserts them into a template and builds the html. 
