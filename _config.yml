@@ -1,2 +1,1 @@
 exclude: ["readme.md", "skeleton", "others.md", "orgs.json"]
-root: "/open-data-guide"

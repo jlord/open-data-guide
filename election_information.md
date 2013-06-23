@@ -1,7 +1,7 @@
 ---
 title: "election information"
 layout: default
-permalink: /election-information/
+permalink: /open-data-guide/election-information/
 group: "navigation"
 ---
 
