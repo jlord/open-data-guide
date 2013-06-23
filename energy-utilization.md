@@ -11,7 +11,7 @@ Congratulations! You're a pioneer. Despite the attention to climate change, the 
 
 # Find your data.
 
-Unless you have a municipal power utility, you don't have these data. Your local utility, which has invested substantial resources in mechanisms for measuring energy for billing purposes has it. Accessing it for public purposes presents significant privacy issues. The US Department of Energy has issued a (white paper discussion these issues.)[http://energy.gov/sites/prod/files/gcprod/documents/Broadband_Report_Data_Privacy_10_5.pdf]
+Unless you have a municipal power utility, you don't have these data. Your local utility, which has invested substantial resources in mechanisms for measuring energy for billing purposes has it. Accessing it for public purposes presents significant privacy issues. The US Department of Energy has issued a [http://energy.gov/sites/prod/files/gcprod/documents/Broadband_Report_Data_Privacy_10_5.pdf](white paper discussion these issues.)
 
 # Decide how to format your data
 
@@ -21,7 +21,7 @@ A data standard for energy usage data was developed by the North American Energy
 
 As pioneers, you should be prepared for exploration, a process of designing, delivering and iterating, assessing the usefulness of each attempt.
 
-The current state of the art (June 2013) is the (UCLA interactive map of electricity utilization in Los Angeles.)[http://sustainablecommunities.environment.ucla.edu/map/]
+The current state of the art (June 2013) is the [http://sustainablecommunities.environment.ucla.edu/map/](UCLA interactive map of electricity utilization in Los Angeles.)
 
 # Publish your data
 
