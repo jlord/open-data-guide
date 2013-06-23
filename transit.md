@@ -1,6 +1,7 @@
 ---
 title: "transit"
 layout: default
+permalink: /transit/
 group: "navigation"
 ---
 
@@ -49,9 +50,9 @@ _(the following is shamlessly cribbed from [smarter people](http://transportatio
 ##Which one should I use?
 Anecdotally, in the US in particular, GTFS seems to be the standard for all things not realtime. For realtime updates there is a split with many using GTFS realtime, some using NextBus and some using SIRI. TCIP does not seem to be represented in any well used open transit data example.
 
-Transforming your data to these standards can be done using various methods of [ETL]({{ site.root }}/general/etl/).
+Transforming your data to these standards can be done using various methods of [ETL]({{ site.baseurl }}/general/etl/).
 
-Outside of these standards there is often the ability to serialize to several [formats]({{ site.root }}/general/formats/). Check [here]({{ site.root }}/general/formats/) for more discussion on choosing a serialized format.
+Outside of these standards there is often the ability to serialize to several [formats]({{ site.baseurl }}/general/formats/). Check [here]({{ site.baseurl }}/general/formats/) for more discussion on choosing a serialized format.
 
 
 #3 Decide how to deliver your Data
@@ -63,13 +64,13 @@ In particular, if you will be offering any real-time data that would have to hap
 * File Download
 This solution will not work for anything realtime. However, it is a much simpler release of non-realtime GTFS data. If you aren't releasing real time data at this time, this will be easier than developing a full API for the GTFS data.
 
-More information on the [delivery methods]({{ site.root }}/general/delivery) and [api protocols]({{ site.root }}/general/api_protocols/). 
+More information on the [delivery methods]({{ site.baseurl }}/general/delivery) and [api protocols]({{ site.baseurl }}/general/api_protocols/). 
 
 
 
 #5 Release it!
 Release the data/api. 
-Make sure that it is [properly documented]({{ site.root }}/general/documentation/) to that people can use it. 
+Make sure that it is [properly documented]({{ site.baseurl }}/general/documentation/) to that people can use it. 
 Talk to the community to make sure that they understand what has been release and that they know that it is actually out.
 
 Celebrate!
@@ -77,7 +78,7 @@ Celebrate!
 #next steps:
 ##Reengage the community!
 ##consume your own data/api
-It should always be a goal to use the api/data internally. More info on why is [here]({{ site.root }}/general/dogfood/)
+It should always be a goal to use the api/data internally. More info on why is [here]({{ site.baseurl }}/general/dogfood/)
 
 ----------
 

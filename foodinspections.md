@@ -1,7 +1,7 @@
 ---
 title: "restaurant health inspection"
 layout: default
-permalink: /open-data-guide/health-inspections/
+permalink: /health-inspections/
 group: "navigation"
 ---
 

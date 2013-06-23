@@ -1,7 +1,7 @@
 ---
 title: "Other Open Data Guides"
 layout: default
-permalink: {{ site.root }}/other-guides/
+permalink: /other-guides/
 ---
 
 #Other Guides
