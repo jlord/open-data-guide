@@ -1,3 +1,9 @@
+---
+title: "What protocol should I use for my API?"
+layout: default
+permalink: {{ site.root }}/general/api_protocols/
+---
+
 #Protocols:
 
 By default your web services should communicate via HTTP over SSL.
