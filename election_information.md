@@ -25,7 +25,7 @@ It's possible to publish election related data without complete coverage, but it
 ### Yes! There are a few standards
 *[The Election Markup Language (EML)](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=election) - EML is a data standard designed to facilitate the structured interchange of data among hardware, software and service vendors who provide election systems and services.  While it’s very flexible, and is global, it has seen little adoption in the United States. 
 
-*[The Voting Information Project (VIP)] (https://votinginfoproject.org/) - VIP is designed for US jurisdictions and 30 states have adpoted VIP as of November 2012.  
+*[The Voting Information Project (VIP)](https://votinginfoproject.org/) - VIP is designed for US jurisdictions and 30 states have adpoted VIP as of November 2012.  
 ### Which standard should I use?
 This might be another great opportunity to engage your community.  Do the developers you're interested in supporting prefer one standard over the other?  Of the many different ways this data can be surfaced to users, which are the most popular and what standard do they ingest.  Often tools and platforms will be able to ingest more than one data standard especially if there is more than one popular standard.  If you're a US jurisdiction, you most likely should use the VIP format.  If you're an international jurisdiction, EML is probably your best option.
 ### Is there a valadator?
