@@ -1,7 +1,7 @@
 ---
-title: "restaurant health inspection"
+title: "election information"
 layout: default
-permalink: /health-inspections/
+permalink: /election-information/
 group: "navigation"
 ---
 

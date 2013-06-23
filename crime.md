@@ -1,3 +1,10 @@
+---
+title: "crime"
+layout: default
+permalink: /crime/
+group: "navigation"
+---
+
 # Engage the Community
 
 Crime in the community immediately raises a wide number of local civic concerns. Police agencies frequently meet with communities to address these concerns directly.  Feedback and questions from these events can be used to help determine what data is most in demand by the community.
