@@ -1,7 +1,7 @@
 ---
 title: "election information"
 layout: default
-permalink: {{ site.root }}/election-information/
+permalink: /election-information/
 group: "navigation"
 ---
 
