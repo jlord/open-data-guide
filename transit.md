@@ -1,7 +1,7 @@
 ---
 title: "transit"
 layout: default
-permalink: /transit/
+permalink: {{ site.root }}/transit/
 group: "navigation"
 ---
 
