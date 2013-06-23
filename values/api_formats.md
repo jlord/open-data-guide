@@ -1,23 +1,26 @@
-#API Formats
+#Formats
 
+The format of th
 
 ##json
 
-##jsonp
+###jsonp
+wrap json in a fucntion
 
 ##xml
 
 ##Specialized Formats:
 ###RSS
-```@TODO What used for, etc.
 ```
-###GeoRSS
-```@TODO What used for, etc.
-    related formats
-    benefits/drawbacks to related
+RSS is a specialized XML format that is most appropriately used for blogs
 ```
-###GeoJSON
-```@TODO What used for, etc.
-    related formats
-    benefits/drawbacks to related
+
+###General Geo Formats
+####GeoRSS
+```
+benefits/drawbacks to related
+```
+####GeoJSON
+```
+related formats
 ```
