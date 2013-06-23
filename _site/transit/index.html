@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html dir="ltr" lang="en-US" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html dir="ltr" lang="en-US" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html dir="ltr" lang="en-US" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html dir="ltr" lang="en-US" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html dir="ltr" lang="en-US"> <!--<![endif]-->
+
+<head>
+  <title>Open Data Guide</title>
+
+  <meta charset="utf-8">
+  <meta name="description" content="Open Data Guide">
+  <meta name="author" content="Open Data Guide">
+
+  <!--  Mobile Viewport Fix -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+  <!-- Favicon & Progressively-Enhanced Touch Icons: http://mathiasbynens.be/notes/touch-icons#sizes -->
+  <link rel="shortcut icon" href="images/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+
+	<link rel="stylesheet" href="assets/mathlete-fontfacekit/stylesheet.css" type="text/css" charset="utf-8">
+
+  <link rel="stylesheet" href="assets/css/normalize.css" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="assets/css/style.css" type="text/css" media="screen, projection" />
+
+  <!-- Google Web Fonts -->
+  <!-- <link href='http://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'> -->
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+  <![endif]-->
+</head>
+<body>
+
+<div class="site-header clearfix">
+  <div class="container clearfix">
+    <h1 class="site-title"><span><a href="#" title="Open Data Guide" rel="home">Let's open some government <span>data!</span></a></span></h1>
+  </div>
+</div>
+
+<div class="content">
+  <div class="container">
+
+    <nav class="data-category-selector">
+      <p>Yeah, I want to open
+        <select>
+          <option>my</option>
+          <option>transportation</option>
+          <option>food</option>
+          <option>crime</option>
+          <option>311</option>  
+          <option>etc...</option>
+        </select> 
+        data.
+      </p>
+    </nav>
+
+    <article>
+      <h1 id='1_question'>1 Question</h1>
+
+<h2 id='why_open_up_transit_data'>Why open up transit data?</h2>
+
+<h3 id='people_want_to_know'>People want to know:</h3>
+
+<ul>
+<li>When is the next bus/train?</li>
+
+<li>Where is the closest stop/station?</li>
+
+<li>How do I get from here to there using transit?</li>
+</ul>
+
+<h1 id='2_standard'>2 Standard</h1>
+
+<h2 id='is_there_a_standard'>Is there a standard?</h2>
+
+<h3 id='yes'>Yes!</h3>
+
+<p>In fact, there are probably several&#8230;<br /><em>(the following is shamlessly cribbed from <a href='http://transportation-camp-dc-2013.wikispaces.com/Transit+Data+Standards'>smarter people</a>)</em></p>
+
+<ul>
+<li><a href='https://developers.google.com/transit/gtfs/reference'>GTFS</a> - The General Transit Feed Specification, originally developed by Google, contains static schedule information for transit agencies including: stop locations, route geometries and stop times;</li>
+
+<li><a href='https://developers.google.com/transit/gtfs-realtime/'>GTFS-realtime</a> - GTFS-realtime contains real-time information related to vehicle positions, service alerts and trip updates (delays, cancellations, etc.);</li>
+
+<li><a href='http://www.kizoom.com/standards/siri/'>SIRI</a> - The Service Interface for Real Time Information is a real-time data standard predominant in Europe, but making significant inroads into the US market, notably at MTA in New York. Recent change proposals to the SIRI standard include the definition of a structure for SIRI web services;</li>
+
+<li><a href='http://www.aptatcip.com/'>TCIP</a> - The Transit Communications Interface Protocol is an APTA standard, sponsored by the US DOT. It has components which deal with passenger information and scheduling, as well as a whole host of other business divisions in transit;</li>
+
+<li><a href='http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf'>NextBus</a> - A number of transit agencies employ the NextBus XML API to deliver real-time arrival information. While this standard is not as extensive as others, it still deserves mention on this list.</li>
+</ul>
+
+<h2 id='which_one_should_i_use'>Which one should I use?</h2>
+
+<p><code>@TODO 
+figure out why one should use one over the other
+</code></p>
+
+<h1 id='3_how_to_publish'>3 How to publish</h1>
+
+<p>Depends on what kind of data you&#8217;re looking to publish.</p>
+
+<ul>
+<li>API <code>@TODO
+explain benefits specifically, if it&#39;s realtime
+explain formats
+</code></li>
+
+<li>File Download <code>@TODO
+explain downsides
+explain appropriate uses (stop/route data?)
+</code></li>
+</ul>
+
+<h1 id='4_find_your_data'>4 Find your data</h1>
+
+<h2 id='where_should_i_look'>Where should I look?</h2>
+
+<p>The best place to start would probably be with your transportation board.</p>
+
+<p><code>@TODO
+other places that people have found that data inside of govt.
+</code></p>
+
+<h2 id='do_they_not_have_it'>Do they not have it?</h2>
+
+<p>It may be that the data you want to open is actually housed with a non-government agency. You may want to:</p>
+
+<ul>
+<li>look into potential partnerships</li>
+
+<li>see if they already have an api that you can mirror/integrate</li>
+</ul>
+
+<h1 id='5_release_it'>5 Release it!</h1>
+
+<p>transform what you have to the standard you chose.</p>
+
+<h3 id='tools_for_transforming'>tools for transforming</h3>
+
+<ul>
+<li>commercial ETL</li>
+
+<li>open source ETL</li>
+
+<li>roll your own ETL</li>
+</ul>
+
+<h1 id='next_steps'>next steps:</h1>
+
+<h2 id='consume_your_own_dataapi'>consume your own data/api</h2>
+
+<p><code>boilerplate 
+    This is the best way to ensure that the standard and quality of your data/api are maintained etc…
+    @TODO make this it&#39;s own page as a value that is espoused.
+</code></p>
+<hr />
+<h1 id='is_this_becoming_hugely_painful'>is this becoming hugely painful?</h1>
+
+<h2 id='cant_find_the_data'>Can&#8217;t find the data?</h2>
+
+<p>This is probably a good time to reevaluate what the costs/benefits are and make sure that:</p>
+
+<ul>
+<li>it&#8217;s <em>possible</em> to get the data</li>
+
+<li>it&#8217;s <em>feasible</em> to get the data</li>
+
+<li>it&#8217;s <em>cost-effective</em> to get the data</li>
+</ul>
+    </article>
+
+  </div>
+</div>
+
+</body>
+</html>

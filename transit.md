@@ -1,3 +1,8 @@
+---
+title: "I want to open my transit data"
+layout: default
+permalink: /transit/
+---
 
 #1 Question
 
