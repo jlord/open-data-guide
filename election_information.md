@@ -41,6 +41,15 @@ Most open data projects with funding to support them have written symantic and s
 #Publish your Data
 If you would like specific organizations to ingest your data into their own APIs, you should let them know where you've placed your data.  The Google Civic Information API returns election information published in the VIP format.  You can notify them of your published data at https://votinginfoproject.org/contact.
 
+#Eating your own dogfood.
+
+Once an api has been opened, that API should be used internally for all access to that information. 
+
+* find the flaws in the API design
+* align values of the consumer and producer of the data
+* ensure that the API itself is maintained and supported
+
+One easiy way of consuming the election data you publish is by making sure any internal polling place locator, ballot information locator or election results displays are built using the data you publish.
 
 #Engage your Community
 Make sure you provide a way for developers and community members to submit feedback and error reports to you.  This can be as simple as creting and publicizing an email address.
