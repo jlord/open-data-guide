@@ -25,7 +25,7 @@ To address neighborhood concerns, your city may be interested in providing more 
 
 # Decide how to format your data
 
-Police reports are often only in paper format, and will be.
+Police reports are often only in paper format.  Even if you have access to these, and your police department will work with you to identify what can be included in the data set, these can be difficult or expensive to convert to electronic format.
 
 Good data formats should have structure that allows programmers to easily find, extract, and transform data, and should be legible by humans.  Raw CAD formats are very close to this ideal.
 
