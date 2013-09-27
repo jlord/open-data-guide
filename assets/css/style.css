@@ -169,13 +169,21 @@ ul.data-category-selector {
   border: 1px solid rgba(0,0,0,0.15);
   border-collapse: collapse;
   /*border-radius: 0.5em;*/
+  display: block;
+  position: relative;
 }
 .data-category-selector li {
+  display: block;
   white-space: nowrap;
   margin: 0;
-  padding: 0 2.5em 0 0.5em;
+  padding: 0;
   border: 1px solid rgba(0,0,0,0.15);
   border-collapse: collapse;
+  background: #fff;
+}
+.data-category-selector li a {
+  display: block;
+  padding: 0 2.5em 0 0.5em;
 }
 .data-category-selector li.inactive {
   display: none;
