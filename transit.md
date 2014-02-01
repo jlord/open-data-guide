@@ -5,7 +5,7 @@ permalink: /transit/
 group: "navigation"
 ---
 
-#1 Engage the community
+#Engage the community
 
 Engage the community to determine why and how to open your transit data.
 
@@ -21,7 +21,7 @@ Get to know the development community, and determine example uses of the data/ap
 * Do they need shape files?
 * Do they need real time bus/train info?
 
-#2 Find the data
+#Find the data
 ##Where should I look?
 The best place to start would probably be with your transportation board.
 
@@ -32,7 +32,7 @@ It may be that the data you want to open is actually housed with a non-governmen
 * see if they already have an api that you can mirror/integrate
 
 
-#3 Decide how to format your data.
+#Decide how to format your data.
 If you use a standard format, you benefit from all the work that others have done integrating and tooling that standard. This can lead to cost savings in developing documentation, reduced support issues and increased adoption. In general, if there is a standard, the default should be to develop to it.
 
 ## Is there a standard for transit data?
@@ -55,7 +55,7 @@ Transforming your data to these standards can be done using various methods of [
 Outside of these standards there is often the ability to serialize to several [formats]({{ site.baseurl }}/general/formats/). Check [here]({{ site.baseurl }}/general/formats/) for more discussion on choosing a serialized format.
 
 
-#3 Decide how to deliver your Data
+#Decide how to deliver your Data
 
 * API
 A great default would be to try to release the data as an API.
@@ -68,7 +68,7 @@ More information on the [delivery methods]({{ site.baseurl }}/general/delivery) 
 
 
 
-#5 Release it!
+#Release it!
 Release the data/api. 
 Make sure that it is [properly documented]({{ site.baseurl }}/general/documentation/) to that people can use it. 
 Talk to the community to make sure that they understand what has been release and that they know that it is actually out.
